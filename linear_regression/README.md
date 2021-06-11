@@ -1,4 +1,3 @@
-# ML
 ## Linear Regression
 ### Concept of Linear Regression
 <p>
