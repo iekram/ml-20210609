@@ -9,4 +9,10 @@
 <h4>Cost Function</h4>
 <h6>Mean Square Error</h6>
 
-![This is a alt text.](/linear_regression/mse.jpg "This is a sample image.")
+![Mean square error.](/linear_regression/mse.jpg "Mean square error.")
+
+<p>
+    This is the error function. So we have to find the minimum of this function. We need it's to calculate the derivative or the gradient so we calculate the gradient of our cost function with respect to W and with respect to B. So this is the formula of the gradient.
+</p>
+
+![Cost Function](/linear_regression/cost.jpg "")
