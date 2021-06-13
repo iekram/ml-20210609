@@ -22,6 +22,8 @@
     With this gradient we use a technique that is called gradient descent so this is an iterative method to get to the minimum.
     if we have our object or our cost function here then we start somewhere so we have some initialization of 
 </p>
-
-![](/linear_regression/gradient.jpg)
 <h4>Update Rules</h4>
+
+h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
+
+![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}) 
