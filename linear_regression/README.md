@@ -1,5 +1,6 @@
 ## Linear Regression
 ### Concept of Linear Regression
+![output](/linear_regression/linear_regression.png "Output")
 <p>
     In regression, we want to predict continuous values whereas in classifications we want to predict a discrete value like a class label 0 or      1. So if we have a look at this example plot then we want to approximate this data with a linear function that's why it's called linear regression so we use a linear function to predict the values so we can define the approximation as 
 </p><h4>Approximation</h4>
@@ -16,3 +17,11 @@
 </p>
 
 ![Cost Function](/linear_regression/cost.jpg "")
+
+<p>
+    With this gradient we use a technique that is called gradient descent so this is an iterative method to get to the minimum.
+    if we have our object or our cost function here then we start somewhere so we have some initialization of 
+</p>
+
+![](/linear_regression/gradient.jpg)
+<h4>Update Rules</h4>
